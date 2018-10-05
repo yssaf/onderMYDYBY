@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Arimo';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../font/Arimo-Bold.ttf');
+}
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../font/Raleway-Regular.ttf');
+}
+@font-face {
+	font-family: 'Philosopher';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../font/Philosopher-Bold.ttf');
+}
